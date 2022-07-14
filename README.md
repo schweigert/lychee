@@ -1,2 +1,3 @@
-# lychee
-🍒 A lightweight web framework for building distributed applications
+# 🍒 Lychee
+
+A lightweight web framework for building distributed applications.
